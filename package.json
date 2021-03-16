@@ -1,0 +1,22 @@
+{
+  "name": "cynko",
+  "version": "1.0.0",
+  "description": "my-test page for Cynko project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hernan-21/Cynko.git"
+  },
+  "author": "Hernan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hernan-21/Cynko/issues"
+  },
+  "homepage": "https://github.com/Hernan-21/Cynko#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  }
+}
